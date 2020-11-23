@@ -1,0 +1,13 @@
+C:\Users\com\Desktop\Practice\PracticeQuantityMeasurement\bin\Debug\netcoreapp3.1\PracticeQuantityMeasurement.exe
+C:\Users\com\Desktop\Practice\PracticeQuantityMeasurement\bin\Debug\netcoreapp3.1\PracticeQuantityMeasurement.deps.json
+C:\Users\com\Desktop\Practice\PracticeQuantityMeasurement\bin\Debug\netcoreapp3.1\PracticeQuantityMeasurement.runtimeconfig.json
+C:\Users\com\Desktop\Practice\PracticeQuantityMeasurement\bin\Debug\netcoreapp3.1\PracticeQuantityMeasurement.runtimeconfig.dev.json
+C:\Users\com\Desktop\Practice\PracticeQuantityMeasurement\bin\Debug\netcoreapp3.1\PracticeQuantityMeasurement.dll
+C:\Users\com\Desktop\Practice\PracticeQuantityMeasurement\bin\Debug\netcoreapp3.1\PracticeQuantityMeasurement.pdb
+C:\Users\com\Desktop\Practice\PracticeQuantityMeasurement\obj\Debug\netcoreapp3.1\PracticeQuantityMeasurement.csprojAssemblyReference.cache
+C:\Users\com\Desktop\Practice\PracticeQuantityMeasurement\obj\Debug\netcoreapp3.1\PracticeQuantityMeasurement.AssemblyInfoInputs.cache
+C:\Users\com\Desktop\Practice\PracticeQuantityMeasurement\obj\Debug\netcoreapp3.1\PracticeQuantityMeasurement.AssemblyInfo.cs
+C:\Users\com\Desktop\Practice\PracticeQuantityMeasurement\obj\Debug\netcoreapp3.1\PracticeQuantityMeasurement.csproj.CoreCompileInputs.cache
+C:\Users\com\Desktop\Practice\PracticeQuantityMeasurement\obj\Debug\netcoreapp3.1\PracticeQuantityMeasurement.dll
+C:\Users\com\Desktop\Practice\PracticeQuantityMeasurement\obj\Debug\netcoreapp3.1\PracticeQuantityMeasurement.pdb
+C:\Users\com\Desktop\Practice\PracticeQuantityMeasurement\obj\Debug\netcoreapp3.1\PracticeQuantityMeasurement.genruntimeconfig.cache
