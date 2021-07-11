@@ -17,6 +17,15 @@ namespace Test
 
 
         [Test]
+        public void implimentsdsationForConversion()
+        {
+            ConversionForDistance conversion = new ConversionForDistance();
+            double output = conversion.ConvertMethod(1.0, Distance.Meters, Distance.Meters);
+            Assert.AreEqual(1.0, output);
+        }
+
+
+        [Test]
         public void givenZeroFeet_shouldRetrunZeroFeet()
         {
             ConversionForDistance conversion = new ConversionForDistance();

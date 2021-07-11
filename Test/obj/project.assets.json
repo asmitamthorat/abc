@@ -4639,19 +4639,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\com\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\com\\Desktop\\Practice\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\git-practise\\abc\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\com\\Desktop\\Practice\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\com\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\com\\Desktop\\Practice\\Test\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\git-practise\\abc\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\git-practise\\abc\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\com\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4665,8 +4665,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\com\\Desktop\\Practice\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj": {
-              "projectPath": "C:\\Users\\com\\Desktop\\Practice\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj"
+            "C:\\Users\\user\\Desktop\\git-practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\git-practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj"
             }
           }
         }
@@ -4709,7 +4709,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }
