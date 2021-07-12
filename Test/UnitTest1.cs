@@ -15,6 +15,14 @@ namespace Test
             Assert.AreEqual(1.0, output);
         }
 
+        [Test]
+        public void demo2()
+        {
+            ConversionForDistance conversion = new ConversionForDistance();
+            double output = conversion.ConvertMethod(1.0, Distance.Meters, Distance.Meters);
+            Assert.AreEqual(1.0, output);
+        }
+
 
         [Test]
         public void InMaster()
