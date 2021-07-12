@@ -101,6 +101,16 @@ namespace Test
 
 
         [Test]
+        public void addisdfdtion1()
+        {
+            ConversionVolumes conversionVolumes = new ConversionVolumes();
+            double output = conversionVolumes.Addition(1, Volumes.gallon, 3.78, Volumes.litre);
+            Assert.AreEqual(7.62, output, 0.01);
+
+        }
+
+
+        [Test]
         public void addition4()
         {
             ConversionWight conversionWight = new ConversionWight();
