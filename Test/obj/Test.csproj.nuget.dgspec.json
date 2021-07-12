@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\git-practise\\abc\\Test\\Test.csproj": {}
+    "C:\\Users\\user\\Desktop\\git-Practise\\abc\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\git-practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj": {
+    "C:\\Users\\user\\Desktop\\git-Practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\git-practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\git-Practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj",
         "projectName": "PracticeQuantityMeasurement",
-        "projectPath": "C:\\Users\\user\\Desktop\\git-practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\git-Practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\git-practise\\abc\\PracticeQuantityMeasurement\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\git-Practise\\abc\\PracticeQuantityMeasurement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\git-practise\\abc\\Test\\Test.csproj": {
+    "C:\\Users\\user\\Desktop\\git-Practise\\abc\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\git-practise\\abc\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\git-Practise\\abc\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\user\\Desktop\\git-practise\\abc\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\git-Practise\\abc\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\git-practise\\abc\\Test\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\git-Practise\\abc\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\git-practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\git-practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj"
+              "C:\\Users\\user\\Desktop\\git-Practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\git-Practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj"
               }
             }
           }

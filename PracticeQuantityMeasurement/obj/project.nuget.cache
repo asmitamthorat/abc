@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t8gY79dQOFwca0o+z4NHgq9ch7/iiKf0wYhkliD+3Ht55nP9PtHvq9QUm1Zx7jZDU5EVWDoTFMQd3NsuNvEL0A==",
+  "dgSpecHash": "KX5aKR96KRAAuVrenVeJyW39g2X46zHsXHo4fbhvpMVPKEX10WC/7ZezdGsTY5Akc5wKDfWGGmO7hAKCj103jw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\git-practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\git-Practise\\abc\\PracticeQuantityMeasurement\\PracticeQuantityMeasurement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
