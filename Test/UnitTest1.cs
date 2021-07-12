@@ -16,12 +16,30 @@ namespace Test
         }
 
         [Test]
+        public void demo1()
+        {
+            ConversionForDistance conversion = new ConversionForDistance();
+            double output = conversion.ConvertMethod(1.0, Distance.Meters, Distance.Meters);
+            Assert.AreEqual(1.0, output);
+        }
+
+
+        [Test]
         public void demo2()
         {
             ConversionForDistance conversion = new ConversionForDistance();
             double output = conversion.ConvertMethod(1.0, Distance.Meters, Distance.Meters);
             Assert.AreEqual(1.0, output);
         }
+
+        [Test]
+        public void demo3()
+        {
+            ConversionForDistance conversion = new ConversionForDistance();
+            double output = conversion.ConvertMethod(1.0, Distance.Meters, Distance.Meters);
+            Assert.AreEqual(1.0, output);
+        }
+
 
 
         [Test]
